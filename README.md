@@ -14,7 +14,7 @@
 
 + [0から始めるjs未経験者向けReact Native入門](http://qiita.com/naodroid/items/dcd3e7eb8454d5ae9a54)
 
-#### その1: Props & Stateに関する資料
+### その1: Props & Stateに関する資料
 
 + [ReactにおけるStateとProps の違い](http://qiita.com/kyrieleison/items/78b3295ff3f37969ab50)
 + [今からはじめるReact.js 〜propsとstate、それからrefs〜](http://qiita.com/kuniken/items/a22adda392ccc30011b1)
